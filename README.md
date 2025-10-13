@@ -47,6 +47,13 @@ Softmax(Z_i) = (e^(Z_i))/(sum_j e^{Z_j))
 
 
 ### Loss Function
+Cross-entropy loss
 
-Cross-entropy loss for one-hot labels
+## Resources
+
+The following resources helped me understand neural networks and construct this project.
+
+- [Neural Networks from Scratch – 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
+- [Backpropagation Explained – StatQuest](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+- [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU?si=97QwX6nf54qQqdu6)
 
